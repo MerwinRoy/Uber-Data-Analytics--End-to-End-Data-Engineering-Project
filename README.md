@@ -57,6 +57,7 @@ It is an open-source modern data pipeline tool used for transforming and integra
 <img width="367" alt="Mage Data Pipeline Tree" src="https://github.com/MerwinRoy/Uber-Data-Analytics--End-to-End-Data-Engineering-Project/assets/46862684/b32182e6-f6b3-42b1-ade8-53a004b25b30">
 
 ## Uber Analytics Dashboard
+#### Link: https://lookerstudio.google.com/s/khgde9G7F3w
 
 ### Looker Studio Dashboard
 <img width="1440" alt="Uber Dashboard" src="https://github.com/MerwinRoy/Uber-Data-Analytics--End-to-End-Data-Engineering-Project/assets/46862684/9f29c566-2c9d-4017-8690-370d706db9e1">
